@@ -50,9 +50,9 @@ I build scalable systems, drive engineering teams, and explore AI-driven solutio
 
 *(Stats placeholder – you can add GitHub readme stats badges)*
 
-<!-- Example badges (uncomment and customize):
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
--->
+=
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=waleedabark&show_icons=true)
+=
 
 ## 📫 Connect With Me
 
