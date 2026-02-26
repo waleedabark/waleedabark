@@ -46,14 +46,6 @@ I build scalable systems, drive engineering teams, and explore AI-driven solutio
 * AI/ML: LLM-based applications, automation agents
 * Databases: SQL and NoSQL systems
 
-## 📈 GitHub Activity
-
-*(Stats placeholder – you can add GitHub readme stats badges)*
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=waleedabark&show_icons=true)
-
-
 ## 📫 Connect With Me
 
 * Feel free to reach out for collaboration, architecture discussions, or AI engineering ideas.
